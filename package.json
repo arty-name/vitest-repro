@@ -9,8 +9,6 @@
     "@angular/compiler-cli": "19.2.15",
     "@angular/core": "19.2.15",
     "@angular/platform-browser": "19.2.15",
-    "@vitest/coverage-v8": "^4.0.5",
-    "@vitest/ui": "^4.0.5",
     "jsdom": "^27.0.0",
     "typescript": "^5.5.3",
     "vitest": "^4.0.5"

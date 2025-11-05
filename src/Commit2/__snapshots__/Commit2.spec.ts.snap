@@ -1,5 +1,14 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
+exports[`Commit2 > should render head properly 1`] = `
+<div
+  id="root0"
+  ng-version="19.2.15"
+>
+  <p />
+</div>
+`;
+
 exports[`Commit2 > should render properly 1`] = `
 <div
   id="root0"

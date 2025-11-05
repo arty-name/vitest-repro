@@ -1,11 +1,11 @@
-import { beforeEach, describe, expect, it } from 'vitest';
+import { beforeAll, beforeEach, describe, expect, it } from 'vitest';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { Commit2 } from './Commit2';
 
 describe('Commit2', () => {
   let fixture: ComponentFixture<Commit2>;
 
-  beforeEach(async () => {
+  beforeAll(async () => {
     TestBed.configureTestingModule({});
     fixture = TestBed.createComponent(Commit2);
   });
